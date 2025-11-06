@@ -1,6 +1,3 @@
-Absolutely ✅ — here’s **all the relevant content fully written in Markdown**, cleanly formatted and ready to paste into a `README.md` file.
-
----
 
 ````markdown
 # 🌐 Semantic HTML & Accessibility Project
